@@ -1,0 +1,75 @@
+
+[
+    {
+        "remote":       "github",
+        "repository":   "Herna1994/android_device_google_shusky",
+        "target_path":  "device/google/shusky",
+        "revision":     "uvite"
+    },
+    {
+        "remote":       "github",
+        "repository":   "Herna1994/android_device_google_zuma",
+        "target_path":  "device/google/zuma",
+        "revision":     "uvite"
+    },
+    {
+        "remote":       "aosp",
+        "repository":   "device/google/gs101",
+        "target_path":  "device/google/gs101",
+        "revision":     "refs/tags/android-14.0.0_r12"
+    },
+    {
+        "remote":       "github",
+        "repository":   "Herna1994/proprietary_vendor_google",
+        "target_path":  "vendor/google_devices",
+        "revision":     "uvite"
+    },
+    {
+        "remote":       "aosp",
+        "repository":   "hardware/google/pixel",
+        "target_path":  "hardware/google/pixel",
+        "revision":     "refs/tags/android-14.0.0_r12"
+    },
+    {
+        "remote":       "aosp",
+        "repository":   "device/google/gs-common",
+        "target_path":  "device/google/gs-common",
+        "revision":     "refs/tags/android-14.0.0_r12"
+    },
+    {
+        "remote":       "aosp",
+        "repository":   "device/google/shusky-sepolicy",
+        "target_path":  "device/google/shusky-sepolicy",
+        "revision":     "refs/tags/android-14.0.0_r12"
+    },
+    {
+        "remote":       "aosp",
+        "repository":   "device/google/zuma-sepolicy",
+        "target_path":  "device/google/zuma-sepolicy",
+        "revision":     "refs/tags/android-14.0.0_r12"
+    },
+    {
+        "remote":       "aosp",
+        "repository":   "hardware/google/pixel-sepolicy",
+        "target_path":  "hardware/google/pixel-sepolicy",
+        "revision":     "refs/tags/android-14.0.0_r12"
+    },
+    {
+        "remote":       "aosp",
+        "repository":   "hardware/google/gchips",
+        "target_path":  "hardware/google/gchips",
+        "revision":     "refs/tags/android-14.0.0_r12"
+    },
+    {
+        "remote":       "aosp",
+        "repository":   "hardware/google/graphics/zuma",
+        "target_path":  "hardware/google/graphics/zuma",
+        "revision":     "refs/tags/android-14.0.0_r12"
+    },
+    {
+        "remote":       "aosp",
+        "repository":   "hardware/google/graphics/common",
+        "target_path":  "hardware/google/graphics/common",
+        "revision":     "refs/tags/android-14.0.0_r12"
+    }
+]
